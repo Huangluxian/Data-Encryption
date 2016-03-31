@@ -68,6 +68,6 @@ int main(int argc, const char * argv[]) {
         cout << "Write bmp fail!" << endl;
         return -1;
     }
-    cout << "done!" << endl;
+    cout << "Done!" << endl;
     return 0;
 }
